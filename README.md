@@ -1,2 +1,3 @@
-# rapid-mobile-app-jvt1
+# Rapid Mobile App Jvt1
+
 A repository to test GitHub automation for issue management.
